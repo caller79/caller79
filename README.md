@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 Hi!
 
-I am Carlos Aller, a Solutions Architect with a long trajectory doing software mainly in Java, a bit of nodejs, bash scripting...  
+I am Carlos Aller, a Solutions Architect with a long trajectory doing software mainly in Java, a few years of nodejs, bash scripting, javascript...  
 
 Currently interested in REST APIs, mobile backends, containers, Kubernetes, cloud computing, CI / CD methodologies, etc.
 
