@@ -3,8 +3,6 @@ caller79/caller79 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-Hi!
-
 I am Carlos Aller, a Solutions Architect with a long trajectory building software mainly in Java, a few years of nodejs, bash scripting, javascript, typescript...  
 
 Currently interested in REST APIs, GraphQL, mobile backends, containers, Kubernetes, cloud computing, CI / CD methodologies, etc.
